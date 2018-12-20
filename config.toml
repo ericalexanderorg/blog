@@ -4,7 +4,7 @@ title = "Eric Alexander"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2017"
 disqusShortname = "ericalexander-org"
-googleAnalytics = ""
+googleAnalytics = "UA-87327219-1"
 description = "What's on my mind"
 keywords = ["infosec", "automation"]
 
