@@ -1,5 +1,5 @@
 ---
-title: "Devsecops - Systems Thinking"
+title: "DevSecOps - Systems Thinking"
 date: 2020-01-08T17:36:14-07:00
 draft: false
 ---
