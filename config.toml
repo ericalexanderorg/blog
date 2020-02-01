@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Eric Alexander"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2020"
-disqusShortname = "ericalexander-org"
 googleAnalytics = "UA-87327219-1"
 description = "What's on my mind"
 keywords = ["infosec", "automation"]
@@ -29,6 +28,10 @@ fa_icon = "fa-linkedin"
 [[params.social]]
 url = "https://www.reddit.com/user/ericalexander303"
 fa_icon = "fa-reddit"
+
+[[params.social]]
+url = "https://twitter.com/ealexand"
+fa_icon = "fa-twitter"
 
 
 [[params.social]]
