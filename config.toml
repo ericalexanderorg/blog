@@ -1,0 +1,40 @@
+baseurl = "http://ericalexander.org"
+languageCode = "en-us"
+title = "Eric Alexander"
+theme = "hemingway2"
+copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2020"
+googleAnalytics = "UA-87327219-1"
+description = "What's on my mind"
+keywords = ["infosec", "automation"]
+staticDir = ["static"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/ericalexanderorg"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://www.linkedin.com/in/ericalexanderorg"
+fa_icon = "fa-linkedin"
+
+[[params.social]]
+url = "https://www.reddit.com/user/ericalexander303"
+fa_icon = "fa-reddit"
+
+[[params.social]]
+url = "https://twitter.com/ealexand"
+fa_icon = "fa-twitter"
+
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
