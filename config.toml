@@ -1,40 +1,84 @@
-baseurl = "http://ericalexander.org"
-languageCode = "en-us"
+baseURL = "https://example.com"
 title = "Eric Alexander"
-theme = "hemingway2"
-copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2020"
-googleAnalytics = "UA-87327219-1"
-description = "What's on my mind"
-keywords = ["infosec", "automation"]
+languageCode = "en"
+enableInlineShortcodes = true
+
+theme = "soho"
+
 staticDir = ["static"]
 
-[taxonomies]
-tag = "tags"
-category = "categories"
+#summarylength = 10
+#enableEmoji = true
 
 [params]
+author = "Eric Alexander"
+#description = "My Blog"
 
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
+## Set one of:
+# gravatar = "soho@example.com"
+profilePicture = "profile.png"
 
-[[params.social]]
-url = "https://github.com/ericalexanderorg"
-fa_icon = "fa-github"
+copyright = "Eric Alexander"
+#license = "CC BY-SA 4.0"
+#licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
-[[params.social]]
+## Set custom theme color.
+# themeColor = "#fc2803"
+
+## Set custom CSS and/or JS to override site defaults.
+#customCss = ["css/blog.css"]
+#customJs = ["js/blog.js"]
+
+
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
 url = "https://www.linkedin.com/in/ericalexanderorg"
-fa_icon = "fa-linkedin"
 
-[[params.social]]
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/ericalexanderorg"
+
+[[params.socialIcons]]
+icon = "fa-reddit"
+title = "Reddit"
 url = "https://www.reddit.com/user/ericalexander303"
-fa_icon = "fa-reddit"
 
-[[params.social]]
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
 url = "https://twitter.com/ealexand"
-fa_icon = "fa-twitter"
 
+[menu]
 
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Security News"
+  weight = 100
+  identifier = "security-news"
+  url = "https://ericalexander.org/SecurityNews"
+
+  [[menu.main]]
+  name = "Breach Data"
+  weight = 101
+  identifier = "breach-data"
+  url = "https://ericalexander.org/SecurityBreach"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
