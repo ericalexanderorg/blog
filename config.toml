@@ -53,12 +53,6 @@ url = "https://twitter.com/ealexand"
 [menu]
 
   [[menu.main]]
-  name = "Posts"
-  weight = 100
-  identifier = "posts"
-  url = "/posts/"
-
-  [[menu.main]]
   name = "Security News"
   weight = 100
   identifier = "security-news"
