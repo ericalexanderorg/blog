@@ -6,6 +6,7 @@ copyright = "&copy; <a href=\"http://ericalexander.org\">Eric Alexander</a> 2020
 googleAnalytics = "UA-87327219-1"
 description = "What's on my mind"
 keywords = ["infosec", "automation"]
+staticDir = ["static"]
 
 [taxonomies]
 tag = "tags"
