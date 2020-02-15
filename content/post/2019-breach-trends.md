@@ -40,6 +40,6 @@ Criminal continues to be the dominant actor, followed by hacktivist, and then na
 
 ![credit card trends](/2019-breach-trends-criminal.png)
 
-That about wraps it up, but like a wise man once said: This is like, just my opinion man. The data is open and you can [go explore](https://ericalexander.org/SecurityBreach/#/), or better yet, you can help improve the data, and in turn make the world a better place through better data that can lead to smarter bets on where to focus defensive security resources.
+That about wraps it up, but like a wise man once said: This is like, just my opinion man. The data is open and you can [go explore](https://ericalexander.org/SecurityBreach/#/), or better yet, you can help improve the data, and in turn make the world a better place, through better data, that can lead to smarter bets on where to focus defensive security resources.
 
 
