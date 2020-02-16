@@ -16,7 +16,7 @@ author = "Eric Alexander"
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "profile.png"
+profilePicture = "profile-bw.png"
 
 copyright = "Eric Alexander"
 #license = "CC BY-SA 4.0"
