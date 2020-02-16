@@ -16,7 +16,7 @@ Curiously, we didn’t capture any cost metrics in 2018. Again, not to say that 
 
 ![cost trends](/2019-breach-trends-cost.png)
 
-Impacted user count is also dwarfed in 2019 by the Equifax breach in 2017. We're headed in the right direction, but not at zero yet.
+Impacted user count has peaked in 2019. Up from 493 million in 2018 to over 3.3 billion in 2019. The oxydata.io breach accounted for 1.2 billion records alone. 
 
 ![impacted user trends](/2019-breach-trends-impacted-users.png)
 
