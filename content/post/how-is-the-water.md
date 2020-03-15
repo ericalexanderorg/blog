@@ -28,8 +28,10 @@ Still doesn’t make sense but you’re also bored in a world of distancing? It�
 
 >In God we trust, all others must bring data. -W. Edwards Deming
 
-* [Global Pandemic Data](https://covid19info.live/)
-* [US Pandemic Data](https://infection2020.com/)
+* [Global COVID-19 Data](https://covid19info.live/)
+* [US COVID-19 Data](https://infection2020.com/)
+
+This is water... This is water.
 
 
 
