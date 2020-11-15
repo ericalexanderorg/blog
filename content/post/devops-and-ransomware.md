@@ -1,5 +1,5 @@
 ---
-title: "Devops and Ransomware"
+title: "DevOps and Ransomware"
 date: 2020-11-15T13:06:13-07:00
 draft: false
 ---
