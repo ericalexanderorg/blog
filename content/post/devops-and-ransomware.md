@@ -38,14 +38,14 @@ Now that you know how it works, and the cause and effect: Did LCPS eliminate the
 
 This is the only statement that covers what they learned, and how they changed:
 
-Since then, we have installed firewalls, updated our systems, invested in our teachers and improved our infrastructure so we can protect ourselves.
+>Since then, we have installed firewalls, updated our systems, invested in our teachers and improved our infrastructure so we can protect ourselves.
 
 
 If we go back to our current reality tree we can ask: 
 
-Does a firewall address the conflict points? It’s not clear if they’re talking about a new fancy next-gen perimeter firewall, improved network segregation, or host firewalls. Segregation and host firewalls could help if they prevent the bad actor from logging into a shared system where domain admin is logged in.
-Was the problem updated systems? Possible vector if they’re not patching, but it doesn’t address the core conflict.
-Invested in our teachers and improved our infrastructure. Great. Keep it up, but it still doesn’t address the core conflict. 
+* Does a firewall address the conflict points? It’s not clear if they’re talking about a new fancy next-gen perimeter firewall, improved network segregation, or host firewalls. Segregation and host firewalls could help if they prevent the bad actor from logging into a shared system where domain admin is logged in.
+* Was the problem updated systems? Possible vector if they’re not patching, but it doesn’t address the core conflict.
+* Invested in our teachers and improved our infrastructure. Great. Keep it up, but it still doesn’t address the core conflict. 
 
 
 This is the core conflict:
