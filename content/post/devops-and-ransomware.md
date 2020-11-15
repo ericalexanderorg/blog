@@ -19,11 +19,12 @@ Most of what people assume is “DevOps” is just repackaged teaching from an I
 Let’s try it out with Ransomware, it may look something like this if we simply map out the cause and effect relationships of what we know about a [ransomware incident](https://thedfirreport.com/2020/11/05/ryuk-speed-run-2-hours-to-ransom/).
 
 ![simple cause and effect](/20201115-crt-1.png)
-[Full Image](/20201115-crt-1.png)
+
 
 Make sense? Now let’s look at a full current reality tree where we go beyond the ransomware incident and start to look at how a ransomware opportunity was created.
 
 ![full crt](/20201115-crt-2.png)
+[Full Image](/20201115-crt-2.png)
 
 It balloons out when we start to understand all the vectors of how they get on our network, and what they do, once they get there.
 
