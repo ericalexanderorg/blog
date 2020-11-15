@@ -57,7 +57,7 @@ The number of domain admins is the core conflict. It’s rarely necessary to hav
 
 If we infer LCPS is a typical resource constrained public school system, and we know they could have avoided a Ransomware incident through a configuration change, then was their response a product of critical thinking? Did they increase or decrease waste when they shut down network access for weeks? When they re-imaged 30,000 devices? When they purchased new firewalls, computers, and other infrastructure? Did they ever go back and fix the core conflict, or are they still passing a defect downline?
 
-What should they have done prior to the Ransomware breach? What can you do now? Evaluate your blast radius. If your InfoSec and/or IT teams should be following the advice of [adsecurity.org](https://adsecurity.org/). They should be running tools like [Plumhound](https://github.com/PlumHound/PlumHound) or [Infection Monkey](https://www.guardicore.com/infectionmonkey/) to understand and reduce blast radius.
+What should they have done prior to the Ransomware breach? What can you do now? Evaluate your blast radius. Your InfoSec and/or IT teams should be following the advice of [adsecurity.org](https://adsecurity.org/). They should be running tools like [Plumhound](https://github.com/PlumHound/PlumHound) or [Infection Monkey](https://www.guardicore.com/infectionmonkey/) to understand and reduce blast radius.
 
 You don’t have to be an IT or InfoSec expert to get a glimpse into your ransomware risk. You’re at less risk, possibly near zero, if your organization isn’t using Active Directory; but if they are, you can run the powershell below from your computer to evaluate blast radius.
 
