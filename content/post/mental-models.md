@@ -47,7 +47,7 @@ When we start to explore and capture in a mind mapping tool we’ll end up with 
 
 That mapping helps us understand how it works. It gives us some insight into birds eye view cause and effect relationships, but doesn’t help us understand why we’re vulnerable - we need a Current Reality Tree.
 
-![current reality tree](/20201115-crt-3.png)
+![current reality tree](/20201115-crt-2.png)
 
 [Check out this past blog post](https://ericalexander.org/post/devops-and-ransomware/) if you’d like to understand how the current reality tree was built and how to use it. 
 
