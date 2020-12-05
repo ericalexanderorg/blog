@@ -43,10 +43,11 @@ The sequence diagram helps us see there’s a bigger problem beyond the first or
 
 When we start to explore and capture in a mind mapping tool we’ll end up with something like this that [we can share with the team to explore](https://coggle.it/diagram/X8u81lJoLC5D-gR6/t/-/de76c0a8c13ac723f6a788f4e4f05a9fe2d46a1da3d24b4f39eee93f20a658e4). 
 
+![ransomware mind map](/ransomware-mind-map.png)
 
 That mapping helps us understand how it works. It gives us some insight into birds eye view cause and effect relationships, but doesn’t help us understand why we’re vulnerable - we need a Current Reality Tree.
 
-![ransomware mind map](/ransomware-mind-map.png)
+![current reality tree](/20201115-crt-3.png)
 
 [Check out this past blog post](https://ericalexander.org/post/devops-and-ransomware/) if you’d like to understand how the current reality tree was built and how to use it. 
 
@@ -58,6 +59,6 @@ Tools I used:
 * [Mind Map](https://coggle.it/)
 * [Current Reality Tree](https://www.simplediagrams.com/)
 
-Best of luck mind melding.
+Interested in learning more about DevOps and how it applies to Information Security? I’m writing a book. Send me an [email](mailto:devops.book@ericalexander.org?subject=book&body=Let%20me%20know%20when%20it's%20out) or connect on [LinkedIn](https://www.linkedin.com/in/ericalexanderorg) if you’re interested in the book. 
 
 
