@@ -16,7 +16,7 @@ I’m lucky to work at a company that’s both global, and decentralized. Our HQ
 
 I don’t need to be in an office to get things done, but there’s one office tool that’s been hard to replace: The whiteboard. Sometimes it’s hard to figure out [who’s on first](https://youtu.be/kTcRRaXV-fg) over Slack or Zoom. Sometimes it’s easier to say “Let’s whiteboard this” and hours of potential conversation are distilled down to a diagram of who’s on first. Take a picture of that diagram and there’s exponential ROI as the output of the mind meld is shared with a global team.
 
-![mind meld]("/mind-meld.png")
+![mind meld](/mind-meld.png)
 
 How do you boil complex topics down to an image, when there’s no whiteboard to share? I've tried to whiteboard over Zoom, just isn't the same. It's clunky and less interactive. What works? Let’s walk through a complex topic using some alternative tools, but let’s start by exploring the topic without them. Let’s say we’re on a Zoom with the CEO and the CISO of a company that’s cleaning up from a ransomware incident. The CEO is trying to figure out what’s needed to prevent another incident. 
 
@@ -32,7 +32,7 @@ Problem solved, or an example of what Peter Drucker was describing? The CEO is c
 
 What if the CEO explored past the first order problem of Eric falling for phishing? What if the CEO asked for a sequence diagram of events first?
 
-![ransomware sequence diagram]("/ransomware-sequence-diagram.png")
+![ransomware sequence diagram](/ransomware-sequence-diagram.png)
 
 The sequence diagram helps us see there’s a bigger problem beyond the first order problem of Eric falling for phishing. How can we understand:
 
@@ -46,7 +46,7 @@ When we start to explore and capture in a mind mapping tool we’ll end up with 
 
 That mapping helps us understand how it works. It gives us some insight into birds eye view cause and effect relationships, but doesn’t help us understand why we’re vulnerable - we need a Current Reality Tree.
 
-![ransomware mind map]("/ransomware-mind-map.png")
+![ransomware mind map](/ransomware-mind-map.png)
 
 [Check out this past blog post](https://ericalexander.org/post/devops-and-ransomware/) if you’d like to understand how the current reality tree was built and how to use it. 
 
